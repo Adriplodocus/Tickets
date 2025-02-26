@@ -1,6 +1,6 @@
 {
   "name": "com.adrian.tickets",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "displayName": "Tickets",
   "description": "Implements disposable tickets system.",
   "unity": "2019.4",
